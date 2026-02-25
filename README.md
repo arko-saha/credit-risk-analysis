@@ -72,4 +72,4 @@ Every commit is automatically validated via GitHub Actions, ensuring:
 - **Automated Testing**: Verification of core logic and financial calculations.
 
 ---
-*Developed for Portfolio Showcase. Tech-oriented but accessible.*
+
