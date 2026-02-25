@@ -27,7 +27,7 @@ This repository demonstrates an end-to-end MLOps pipeline for credit risk modeli
 ```text
 ├── .github/workflows/    # CI/CD pipelines
 ├── data/                 # Raw datasets (Git ignored in production)
-├── notebooks/            # Original research & exploratory analysis
+├── research/             # Original research & exploratory analysis
 ├── src/credit_risk/      # Core package logic
 │   ├── config.py         # Configuration management
 │   ├── data_loader.py    # Schema validation & loading
