@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+lightgbm
+imbalanced-learn
+pydantic
+pydantic-settings
+pyyaml
+matplotlib
+seaborn
+pytest
+pytest-cov
