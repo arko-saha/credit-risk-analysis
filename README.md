@@ -1,4 +1,4 @@
-# Credit Risk Analysis & Assessment Tool
+# Credit Risk Analysis & MLOps Pipeline with Modular Python Architecture and Automated CI/CD
 
 [![Python package](https://github.com/arko-saha/credit-risk-analysis/actions/workflows/python-app.yml/badge.svg)](https://github.com/arko-saha/credit-risk-analysis/actions/workflows/python-app.yml)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
